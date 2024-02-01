@@ -7,3 +7,5 @@
 * [5⃣ xargs](xargs.md)
 * [6⃣ Wildcards](wildcards.md)
 * [7⃣ zipping and unzipping files](zipping-and-unzipping-files.md)
+* [8⃣ sed](sed.md)
+* [9⃣ awk](awk.md)
